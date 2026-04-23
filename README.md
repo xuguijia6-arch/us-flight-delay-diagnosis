@@ -118,8 +118,6 @@ flight_delay_lab/
 │   ├── 03_clean_layer.sql
 │   ├── 04_mart_layer.sql
 │   └── 05_analysis_queries.sql
-├── data/
-│   └── README_data_note.txt
-└── outputs/
-    └── screenshots/
+└── data/
+    └── README_data_note.txt
 
