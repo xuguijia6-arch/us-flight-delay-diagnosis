@@ -1,0 +1,22 @@
+﻿# data files
+data/*.csv
+data/*.zip
+data/*.xlsx
+data/*.xls
+
+# IDE files
+.idea/
+data/.idea/
+
+# notebook / cache
+__pycache__/
+.ipynb_checkpoints/
+
+# local history / temp files
+.Rhistory
+*.tmp
+*.log
+
+# editor / system files
+.DS_Store
+Thumbs.db
